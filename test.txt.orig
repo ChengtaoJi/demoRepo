@@ -1,0 +1,7 @@
+test
+change
+<<<<<<< HEAD
+newBranch
+=======
+master
+>>>>>>> master
