@@ -3,3 +3,4 @@ change
 newBranch
 master
 push test
+pull test
